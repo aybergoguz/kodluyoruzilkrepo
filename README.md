@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için , lütfen önce neyi
 
 MIT
 
+![Mustafa Kemal Atatürk](https://cdnuploads.aa.com.tr/uploads/Contents/2020/11/09/thumbs_b_c_667360298277a3240ae508e5bb63f60d.jpg)
+
